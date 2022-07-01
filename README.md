@@ -1,2 +1,2 @@
-﻿# Database Confectionery-Company-Management-Project
+﻿# Confectionery-Company-Management-Project
 
